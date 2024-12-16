@@ -1,0 +1,67 @@
+*{
+    font-family: "Comfortaa", sans-serif;
+}
+header{
+    background-color: #1C1509;
+}
+header a{
+    color: #9B9485;
+}
+.nav-item a{
+    color: #9B9485;
+}
+#boton-perfil{
+    background-color: #9B9485;
+}
+.nav-item a:hover{
+    color: #514a40;
+}
+/* # es para los id */
+#app{
+    color: #835b4f;
+}
+.boton-cv{
+    background-color: #9B9485;
+    color: white;
+}
+.caja-habilidades{
+    background-color: #1C1509;
+    color: #9B9485;
+}
+.caja-habilidades h2{
+    color: #9B9485;
+}
+.caja-habilidades h3{
+    color: #9B9485;
+}
+.btn-proyecto{
+    background-color: #9B9485
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color: white;
+}
+.card .card-title{
+    color: #514a40;
+}
+#contacto{
+    background-color: #1C1509;
+    color: white;
+}
+#contacto p{
+    color: white;
+}
+#btn-contacto{
+    background-color: #181511;
+    color: white;
+}
+footer p{
+    color: #4D4332;
+}
+footer li a i{
+    color: rgb(46, 57, 57);
+}
+footer p a{
+    text-decoration: none;
+    color: #7a9862 
+}
